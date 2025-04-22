@@ -1,7 +1,6 @@
-enum Themes {
-  LIGHT = 'light',
-  DARK = 'dark',
-  SYSTEM = 'system',
+enum ThemeMode {
+    LIGHT = "light",
+    DARK = "dark"
 }
 
-export { Themes };
+export { ThemeMode };

@@ -1,4 +1,4 @@
 const Hero = () => {
-  return <div className="">Hero</div>;
+    return <div>Hero</div>;
 };
 export default Hero;
